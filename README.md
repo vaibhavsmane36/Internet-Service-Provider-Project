@@ -13,5 +13,6 @@ User Interface:
 A user-friendly interface (using Java Swing or JavaFX) to allow administrators and possibly customers to interact with the system. 
 Database Integration:
 Use of a database to store customer data, plan details, and other relevant information. 
+
 Project Scope:
 This Java project could be a simple application for a small ISP or a more complex system for a larger company, depending on the desired features and functionalities. The project could be designed to be scalable and adaptable to evolving business needs
